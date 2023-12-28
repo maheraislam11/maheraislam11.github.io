@@ -3,15 +3,12 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: rgba(239, 248, 250,1);
-                        // #{$white-color};
+  --global-bg-color: #{$aquaspring-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: rgba(48, 66, 107, 1);
-                        // #{$purple-color};
-  --global-hover-color: rgba(48, 66, 107, 1);
-                        // #{$purple-color};
+  --global-theme-color: #{$myblue-color};
+  --global-hover-color: #{$myblue-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
